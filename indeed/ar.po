@@ -1,0 +1,2 @@
+msgid "Transferring saved game data from PS Now to PS4:"
+msgstr "Transferring saved game data from PS Now to PS4:"
