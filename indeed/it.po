@@ -1,0 +1,2 @@
+msgid "This question requires an answer."
+msgstr "Cette question nécessite une réponse."
